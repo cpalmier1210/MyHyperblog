@@ -44,13 +44,10 @@ body
 {
     font-size: 20px;
 }
+
 #post
 {
-<<<<<<< HEAD
     background:#DDD: 1em;
-}
-=======
-    padding: 1em;
 }
 
 #footer
@@ -59,8 +56,3 @@ body
 	color white;
 	text-align: center;
 }
-
-<<<<<<< HEAD
->>>>>>> 7167fdceb15c0b7d6f616cf70f15cc5ea137c19f
-=======
->>>>>>> footer
